@@ -26,3 +26,8 @@ class Solution {
         }
     }
 }
+
+
+
+// Another Way 
+Arrays.sort(nums);
