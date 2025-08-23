@@ -15,3 +15,8 @@ class Solution {
 }
 
 // we can ignore the first row and first col because its not any previous eleme ;
+// Example
+
+// 1 2 3 4
+// 5 1 2 3
+// 9 5 1 2
