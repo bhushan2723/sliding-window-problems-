@@ -13,3 +13,5 @@ class Solution {
         return true;
     }
 }
+
+// we can ignore the first row and first col because its not any previous eleme ;
